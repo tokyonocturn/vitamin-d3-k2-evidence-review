@@ -115,7 +115,7 @@ established findings from emerging, mixed and unsupported ones.
 | Question | Outcome | Evidence base | Pooled result | Certainty | Status | Sources |
 | --- | --- | --- | --- | --- | --- | --- |
 | Do vitamin D products match their labels? | Measured versus labelled potency | Independent laboratory testing; 26 products | Two products contained up to twice the labelled vitamin D (Not applicable) | Low | Established | R46 |
-| How variable is vitamin D pill potency? | Pills within and between bottles | Laboratory analysis; 55 bottles | Range 52% to 135% of expected dose; the USP-verified manufacturer measured 101.7% (Not applicable) | Moderate | Established | R48, R63 |
+| How variable is vitamin D pill potency? | Pills within and between bottles | Laboratory analysis; OTC and compounded products | Range 52% to 135% of expected dose; the USP-verified manufacturer measured 101.7% (Not applicable) | Moderate | Established | R48, R63 |
 | Is MK-7 in supplements the active all-trans form? | all-trans MK-7 content | Laboratory analysis; Oil and non-oil products | all-trans content often below label; cis and trans MK-6 and MK-7 impurities 70.9-218.7 mcg per unit (Not applicable) | Low | Emerging | R45 |
 | Do vitamin K products match their labels? | Measured versus labelled content | Independent laboratory testing; Multiple products | One product contained 80.8% of its MK-7 claim; one combination contained far more vitamin D than listed (Not applicable) | Low | Established | R47 |
 | Do combined D3 and K2 products meet specifications? | Simultaneous D and K assay | Analytical study; 25 products | Significant deviations from labelled content for both vitamins (Not applicable) | Low | Emerging | R49 |

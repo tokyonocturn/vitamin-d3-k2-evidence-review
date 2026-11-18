@@ -148,8 +148,9 @@ you will actually take it — not because it is a good value.
 | NSF/ANSI 173 | Thorne D + K2 liquid | Label claims, contaminants, toxicology, GMP |
 | None documented | 17 products | Brand claims only |
 
-Independent testing has found real failures: 52–135% of expected potency across 55
-bottles in one analysis [R48], two products at nearly twice their label dose in
+Independent testing has found real failures: 52–135% of expected potency across
+over-the-counter and compounded products in one analysis [R48], two products at
+nearly twice their label dose in
 another [R46], and significant deviations across 25 combined D3/K2 products in a
 third [R49]. Certification does not eliminate risk, but it is the only cheap,
 verifiable signal available to a consumer.

@@ -312,7 +312,7 @@ The pattern is consistent: a small surrogate signal in pooled analyses, driven b
 smaller trials, with the largest and most rigorous dedicated trials neutral. No
 trial has been powered for myocardial infarction, stroke, or cardiovascular death.
 The observational Rotterdam data linking higher K2 intake to lower coronary heart
-disease is hypothesis-generating, not causal [R58].
+disease is hypothesis-generating, not causal [R33].
 
 A 2026 review of the field summarises the position well: the mechanistic
 foundations are strong, the clinical evidence is conflicting, and the unresolved
@@ -811,8 +811,9 @@ supplements, but not uniformly accurate.
 - **ConsumerLab (2024)** tested 26 vitamin D products and found two containing up
   to **twice** the labelled amount — enough to exceed the tolerable upper intake
   level at the labelled serving [R46].
-- **JAMA Internal Medicine (2013)** analysed 55 bottles and found potencies from
-  **52% to 135%** of the expected dose. Two-thirds of bottles met USP content
+- **JAMA Internal Medicine (2013)** analysed over-the-counter and compounded
+  products and found potencies from **52% to 135%** of the expected dose.
+  Two-thirds of bottles met USP content
   standards on average, and the single USP-verified manufacturer measured
   **101.7%** [R48; R63].
 - **ConsumerLab (2024, vitamin K)** found most products met claims, but one
