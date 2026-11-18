@@ -1,0 +1,54 @@
+# Notice
+
+## Content license
+
+The written report, documentation, and CSV datasets in this repository are
+licensed under the **Creative Commons Attribution 4.0 International License
+(CC BY 4.0)**.
+
+You are free to share and adapt the material for any purpose, including
+commercially, provided you give appropriate credit, provide a link to the license,
+and indicate whether changes were made.
+
+Full legal text: <https://creativecommons.org/licenses/by/4.0/legalcode>
+
+Suggested attribution:
+
+> Edwards, K. (2026). *Vitamin D3 and Vitamin K2: An Independent Evidence Review
+> and Product Database*. https://github.com/tokyonocturn/vitamin-d3-k2-evidence-review
+
+## Code license
+
+The Python analysis scripts are licensed under the **MIT License**. See
+[`LICENSE`](LICENSE).
+
+## Medical disclaimer
+
+This repository is an evidence review and educational resource. It is **not
+medical advice**, and it does not create a clinician-patient relationship.
+
+- Vitamin D and vitamin K are nutrients with real physiological effects and real
+  interactions. Doses that are appropriate for one person may be unsafe for
+  another.
+- Do not start, stop, or change a supplement, or change the dose of a prescription
+  medicine, on the basis of this document alone.
+- People who are pregnant or breastfeeding, who have kidney disease, liver
+  disease, hypercalcemia, granulomatous disease, cancer, hyperparathyroidism,
+  malabsorption, a bleeding disorder, or who take anticoagulants or other
+  interacting medications should consult a qualified clinician.
+- If you suspect vitamin D toxicity or an adverse reaction, seek medical care.
+- Nothing here is an endorsement of any brand, product, or manufacturer.
+
+## Independence
+
+No brand, retailer, or manufacturer funded this review, supplied products, or
+reviewed the text before publication. There are no affiliate links, referral
+codes, or sponsored placements. Prices are dated retail snapshots and are not
+offers.
+
+## Accuracy
+
+The datasets are machine-validated for internal consistency, but the review has
+not been peer reviewed. Effect estimates are best current approximations based on
+the cited literature. Corrections are welcome via the process in
+[`CONTRIBUTING.md`](CONTRIBUTING.md).

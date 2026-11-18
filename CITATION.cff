@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this dataset or report, cite it as below."
+title: "Vitamin D3 and Vitamin K2: An Independent Evidence Review and Product Database"
+abstract: >-
+  A structured review of cholecalciferol and menaquinone supplements, covering
+  forms, absorption, bioavailability, bone health, calcium regulation, immune
+  function, cardiovascular claims, cancer, mortality, blood testing thresholds,
+  dosing, toxicity, medication interactions, D3 plus K2 combinations, product
+  quality, certification, and cost per effective dose. Includes reproducible
+  datasets and a validation pipeline.
+authors:
+  - family-names: "Edwards"
+    given-names: "Kevin"
+    email: "kevinedwards7289@gmail.com"
+date-released: "2026-11-18"
+version: "1.0.0"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/tokyonocturn/vitamin-d3-k2-evidence-review"
+keywords:
+  - vitamin D
+  - vitamin D3
+  - cholecalciferol
+  - vitamin K
+  - vitamin K2
+  - menaquinone-7
+  - evidence synthesis
+  - supplement quality
+  - dosage
+  - warfarin
